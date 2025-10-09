@@ -9136,3 +9136,11 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+Lambr:
+  type: programming
+  extensions:
+    - .lr
+  color: "#9E1C60"
+  tm_scope: source.lambr
+  ace_mode: text
+  language_id: 422
