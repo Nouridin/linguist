@@ -9151,11 +9151,11 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
-Lambr:
+Shai:
   type: programming
   extensions:
-    - .lr
-  color: "#3C467B"
-  tm_scope: source.lambr
+    - .shai
+  color: "#A3B18A"
+  tm_scope: source.shai
   ace_mode: text
   language_id: 422
